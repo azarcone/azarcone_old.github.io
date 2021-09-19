@@ -41,3 +41,19 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.avatar {
+  width:150px;
+  height:150px;
+  margin: 25px auto;
+  overflow: hidden;
+  border-radius:50%;
+  position: relative;
+}
+
+.avatar img {
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%)
+}
