@@ -42,7 +42,7 @@ ul.posts li {
     list-style: none;
 }
 
-.avatar {
+img.avatar {
 
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
