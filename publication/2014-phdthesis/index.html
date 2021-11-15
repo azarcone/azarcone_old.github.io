@@ -1,0 +1,1262 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Alessandra Zarcone" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content="During language understanding, people do not only rely on what they read or hear, but they also exploit implicit information. For example, when they process the expression &#39;begin the book&#39;, they understand it involves an event which is not explicitly mentioned (e.g. &#39;begin reading the book&#39;). This thesis looks at these constructions, known as logical metonymies, which combine an event-selecting verb and entity-denoting object and involve covert events. Logical metonymies are an interesting challenge for theories of lexical semantics: they need to be reconciled with compositionality, they require the integration of context (writers typically write books, students typically read them), and they lie at the interface between lexicon and world knowledge (is the information that books are read stored in our mental lexicon or in our world knowledge?).
+I critically analyze previous hypotheses on logical metonymy with regard to the answer they provide to two core problems: the source problem (what events are retrieved? what type of event knowledge is assumed?) and the trigger problem (why do some constructions trigger a metonymic interpretation and others do not?). Lexicalist approaches claim that the metonymy arises from a type clash between the event-selecting verb and an entity-denoting object, and posit complex lexical items, encoding event information about artifacts (e.g. book → read), to explain the recovery of covert events. Pragmatic-based approaches argue against the idea that lexical items have an internal structure, suggesting that covert events arise from the underspecification of a logical metonymy and are inferred via non-lexical knowledge. I look with particular attention at the role of event knowledge, which lexicalist approaches place in our mental lexicon, while pragmatic-based approaches place it in our world knowledge.
+I propose a third hypothesis, based on thematic fit and generalized event knowledge of typical events and their participants, which have been shown to guide efficient incremental processing: I argue that contextual elements cue generalized event knowledge, which plays a key role in determining the covert event for a logical metonymy. I explore this hypothesis from an interdisciplinary perspective, employing both psycholinguistic experiments and computational models, in order to seek converging evidence and confront it with the theoretical investigation. The results from the psycholinguistic experiments and from the computational (distributional) models support the hypothesis that covert event retrieval is guided by generalized event knowledge. I also employ the computational models to analyze previous experimental results and to explore the hypothesis that thematic fit, informed by generalized event knowledge, is ultimately responsible for the trigger of the logical metonymy. I then report on more psycholinguistic evidence showing that a notion of type is indeed necessary to account for differences between metonymic and non-metonymic constructions, and that both type and thematic fit play a role in logical metonymy interpretation. Lastly, I argue for a context-sensitive model of logical metonymy interpretation that exploits an information-rich lexicon, but needs to rethink the notion of type and reconcile it with the notion of thematic fit." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="alessandrazarcone.de/publication/2014-phdthesis/" />
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    <meta name="theme-color" content="hsl(339, 90%, 68%)" />
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/alessandrazarcone.de/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css" crossorigin="anonymous" title="hl-light" media="print" onload="this.media='all'" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" media="print" onload="this.media='all'">
+        
+      
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+    
+      
+      
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather%7CRoboto+Mono&display=swap">
+      
+    
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/alessandrazarcone.de/css/wowchemy.32d38237309fd62910ac8f705d2df796.css" />
+
+  
+
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="alessandrazarcone.de/manifest.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/alessandrazarcone.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/alessandrazarcone.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="alessandrazarcone.de/publication/2014-phdthesis/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <meta property="twitter:card" content="summary_large_image" />
+  
+  <meta property="og:site_name" content="Alessandra Zarcone" />
+  <meta property="og:url" content="alessandrazarcone.de/publication/2014-phdthesis/" />
+  <meta property="og:title" content="Event Knowledge and Models of Logical Metonymy Interpretation | Alessandra Zarcone" />
+  <meta property="og:description" content="During language understanding, people do not only rely on what they read or hear, but they also exploit implicit information. For example, when they process the expression &#39;begin the book&#39;, they understand it involves an event which is not explicitly mentioned (e.g. &#39;begin reading the book&#39;). This thesis looks at these constructions, known as logical metonymies, which combine an event-selecting verb and entity-denoting object and involve covert events. Logical metonymies are an interesting challenge for theories of lexical semantics: they need to be reconciled with compositionality, they require the integration of context (writers typically write books, students typically read them), and they lie at the interface between lexicon and world knowledge (is the information that books are read stored in our mental lexicon or in our world knowledge?).
+I critically analyze previous hypotheses on logical metonymy with regard to the answer they provide to two core problems: the source problem (what events are retrieved? what type of event knowledge is assumed?) and the trigger problem (why do some constructions trigger a metonymic interpretation and others do not?). Lexicalist approaches claim that the metonymy arises from a type clash between the event-selecting verb and an entity-denoting object, and posit complex lexical items, encoding event information about artifacts (e.g. book → read), to explain the recovery of covert events. Pragmatic-based approaches argue against the idea that lexical items have an internal structure, suggesting that covert events arise from the underspecification of a logical metonymy and are inferred via non-lexical knowledge. I look with particular attention at the role of event knowledge, which lexicalist approaches place in our mental lexicon, while pragmatic-based approaches place it in our world knowledge.
+I propose a third hypothesis, based on thematic fit and generalized event knowledge of typical events and their participants, which have been shown to guide efficient incremental processing: I argue that contextual elements cue generalized event knowledge, which plays a key role in determining the covert event for a logical metonymy. I explore this hypothesis from an interdisciplinary perspective, employing both psycholinguistic experiments and computational models, in order to seek converging evidence and confront it with the theoretical investigation. The results from the psycholinguistic experiments and from the computational (distributional) models support the hypothesis that covert event retrieval is guided by generalized event knowledge. I also employ the computational models to analyze previous experimental results and to explore the hypothesis that thematic fit, informed by generalized event knowledge, is ultimately responsible for the trigger of the logical metonymy. I then report on more psycholinguistic evidence showing that a notion of type is indeed necessary to account for differences between metonymic and non-metonymic constructions, and that both type and thematic fit play a role in logical metonymy interpretation. Lastly, I argue for a context-sensitive model of logical metonymy interpretation that exploits an information-rich lexicon, but needs to rethink the notion of type and reconcile it with the notion of thematic fit." /><meta property="og:image" content="/alessandrazarcone.de/publication/2014-phdthesis/featured.png" />
+    <meta property="twitter:image" content="/alessandrazarcone.de/publication/2014-phdthesis/featured.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2017-01-01T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2014-09-01T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "alessandrazarcone.de/publication/2014-phdthesis/"
+  },
+  "headline": "Event Knowledge and Models of Logical Metonymy Interpretation",
+  
+  "image": [
+    "/alessandrazarcone.de/publication/2014-phdthesis/featured.png"
+  ],
+  
+  "datePublished": "2017-01-01T00:00:00Z",
+  "dateModified": "2014-09-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Alessandra Zarcone"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Alessandra Zarcone",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/alessandrazarcone.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "During language understanding, people do not only rely on what they read or hear, but they also exploit implicit information. For example, when they process the expression 'begin the book', they understand it involves an event which is not explicitly mentioned (e.g. 'begin reading the book'). This thesis looks at these constructions, known as logical metonymies, which combine an event-selecting verb and entity-denoting object and involve covert events. Logical metonymies are an interesting challenge for theories of lexical semantics: they need to be reconciled with compositionality, they require the integration of context (writers typically write books, students typically read them), and they lie at the interface between lexicon and world knowledge (is the information that books are read stored in our mental lexicon or in our world knowledge?).\nI critically analyze previous hypotheses on logical metonymy with regard to the answer they provide to two core problems: the source problem (what events are retrieved? what type of event knowledge is assumed?) and the trigger problem (why do some constructions trigger a metonymic interpretation and others do not?). Lexicalist approaches claim that the metonymy arises from a type clash between the event-selecting verb and an entity-denoting object, and posit complex lexical items, encoding event information about artifacts (e.g. book → read), to explain the recovery of covert events. Pragmatic-based approaches argue against the idea that lexical items have an internal structure, suggesting that covert events arise from the underspecification of a logical metonymy and are inferred via non-lexical knowledge. I look with particular attention at the role of event knowledge, which lexicalist approaches place in our mental lexicon, while pragmatic-based approaches place it in our world knowledge.\nI propose a third hypothesis, based on thematic fit and generalized event knowledge of typical events and their participants, which have been shown to guide efficient incremental processing: I argue that contextual elements cue generalized event knowledge, which plays a key role in determining the covert event for a logical metonymy. I explore this hypothesis from an interdisciplinary perspective, employing both psycholinguistic experiments and computational models, in order to seek converging evidence and confront it with the theoretical investigation. The results from the psycholinguistic experiments and from the computational (distributional) models support the hypothesis that covert event retrieval is guided by generalized event knowledge. I also employ the computational models to analyze previous experimental results and to explore the hypothesis that thematic fit, informed by generalized event knowledge, is ultimately responsible for the trigger of the logical metonymy. I then report on more psycholinguistic evidence showing that a notion of type is indeed necessary to account for differences between metonymic and non-metonymic constructions, and that both type and thematic fit play a role in logical metonymy interpretation. Lastly, I argue for a context-sensitive model of logical metonymy interpretation that exploits an information-rich lexicon, but needs to rethink the notion of type and reconcile it with the notion of thematic fit."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Event Knowledge and Models of Logical Metonymy Interpretation | Alessandra Zarcone</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper  dark " data-wc-page-id="e57de740aa79df6dc59d69a6d796207e" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/alessandrazarcone.de/js/wowchemy-init.min.09c555f11fc9292a2ccfd77590accf2f.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/alessandrazarcone.de/">Alessandra Zarcone</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/alessandrazarcone.de/">Alessandra Zarcone</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/alessandrazarcone.de/#experience"><span>CV</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+            
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="https://scholar.google.com/citations?user=fACNr0IAAAAJ&amp;hl=de" target="_blank" rel="noopener"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+          
+          <li class="nav-item d-none d-lg-inline-flex">
+            <a class="nav-link" href="https://twitter.com/summerlude" data-toggle="tooltip" data-placement="bottom" title="Follow me on Twitter" target="_blank" rel="noopener" aria-label="Follow me on Twitter">
+              <i class="fab fa-twitter" aria-hidden="true"></i>
+            </a>
+          </li>
+        
+      
+
+      
+      
+      <li class="nav-item">
+        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+      </li>
+      
+
+      
+      
+      <li class="nav-item dropdown theme-dropdown">
+        <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+          <i class="fas fa-moon" aria-hidden="true"></i>
+        </a>
+        <div class="dropdown-menu">
+          <a href="#" class="dropdown-item js-set-theme-light">
+            <span>Light</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-dark">
+            <span>Dark</span>
+          </a>
+          <a href="#" class="dropdown-item js-set-theme-auto">
+            <span>Automatic</span>
+          </a>
+        </div>
+      </li>
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+
+
+<div class="article-container pt-3">
+  <h1>Event Knowledge and Models of Logical Metonymy Interpretation</h1>
+
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      <a href="alessandrazarcone.de/author/alessandra-zarcone/">Alessandra Zarcone</a></span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    September 2014
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/alessandrazarcone.de/publication/2014-phdthesis/Zarcone_PhD_Thesis_2014.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<a href="#" class="btn btn-outline-primary btn-page-header js-cite-modal"
+        data-filename="/alessandrazarcone.de/publication/2014-phdthesis/cite.bib">
+  Cite
+</a>
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="/alessandrazarcone.de/publication/2014-phdthesis/Zarcone_PhD_Thesis_2014_slides.pdf" target="_blank" rel="noopener">
+  Slides
+</a>
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/http://dx.doi.org/10.18419/opus-3391" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 721px;">
+  <div style="position: relative">
+    <img src="/alessandrazarcone.de/publication/2014-phdthesis/featured_hu1a7c1658a8f44033d9899c2c63ea3445_359836_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">During language understanding, people do not only rely on what they read or hear, but they also exploit implicit information. For example, when they process the expression &lsquo;begin the book&rsquo;, they understand it involves an event which is not explicitly mentioned (e.g. &lsquo;begin reading the book&rsquo;). This thesis looks at these constructions, known as logical metonymies, which combine an event-selecting verb and entity-denoting object and involve covert events. Logical metonymies are an interesting challenge for theories of lexical semantics: they need to be reconciled with compositionality, they require the integration of context (writers typically write books, students typically read them), and they lie at the interface between lexicon and world knowledge (is the information that books are read stored in our mental lexicon or in our world knowledge?).
+I critically analyze previous hypotheses on logical metonymy with regard to the answer they provide to two core problems: the source problem (what events are retrieved? what type of event knowledge is assumed?) and the trigger problem (why do some constructions trigger a metonymic interpretation and others do not?). Lexicalist approaches claim that the metonymy arises from a type clash between the event-selecting verb and an entity-denoting object, and posit complex lexical items, encoding event information about artifacts (e.g. book → read), to explain the recovery of covert events. Pragmatic-based approaches argue against the idea that lexical items have an internal structure, suggesting that covert events arise from the underspecification of a logical metonymy and are inferred via non-lexical knowledge. I look with particular attention at the role of event knowledge, which lexicalist approaches place in our mental lexicon, while pragmatic-based approaches place it in our world knowledge.
+I propose a third hypothesis, based on thematic fit and generalized event knowledge of typical events and their participants, which have been shown to guide efficient incremental processing: I argue that contextual elements cue generalized event knowledge, which plays a key role in determining the covert event for a logical metonymy. I explore this hypothesis from an interdisciplinary perspective, employing both psycholinguistic experiments and computational models, in order to seek converging evidence and confront it with the theoretical investigation. The results from the psycholinguistic experiments and from the computational (distributional) models support the hypothesis that covert event retrieval is guided by generalized event knowledge. I also employ the computational models to analyze previous experimental results and to explore the hypothesis that thematic fit, informed by generalized event knowledge, is ultimately responsible for the trigger of the logical metonymy. I then report on more psycholinguistic evidence showing that a notion of type is indeed necessary to account for differences between metonymic and non-metonymic constructions, and that both type and thematic fit play a role in logical metonymy interpretation. Lastly, I argue for a context-sensitive model of logical metonymy interpretation that exploits an information-rich lexicon, but needs to rethink the notion of type and reconcile it with the notion of thematic fit.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="alessandrazarcone.de/publication/#7">
+              Thesis
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>PhD Thesis</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="alessandrazarcone.de/tag/logical-metonymy/">logical metonymy</a>
+  
+  <a class="badge badge-light" href="alessandrazarcone.de/tag/complement-coercion/">complement coercion</a>
+  
+  <a class="badge badge-light" href="alessandrazarcone.de/tag/lexical-meaning-in-context/">lexical meaning in context</a>
+  
+  <a class="badge badge-light" href="alessandrazarcone.de/tag/world-knowledge/">world knowledge</a>
+  
+  <a class="badge badge-light" href="alessandrazarcone.de/tag/expectation-based-processing/">expectation-based processing</a>
+  
+  <a class="badge badge-light" href="alessandrazarcone.de/tag/distributional-semantics/">distributional semantics</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=alessandrazarcone.de/publication/2014-phdthesis/&amp;text=Event%20Knowledge%20and%20Models%20of%20Logical%20Metonymy%20Interpretation" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=alessandrazarcone.de/publication/2014-phdthesis/&amp;t=Event%20Knowledge%20and%20Models%20of%20Logical%20Metonymy%20Interpretation" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Event%20Knowledge%20and%20Models%20of%20Logical%20Metonymy%20Interpretation&amp;body=alessandrazarcone.de/publication/2014-phdthesis/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=alessandrazarcone.de/publication/2014-phdthesis/&amp;title=Event%20Knowledge%20and%20Models%20of%20Logical%20Metonymy%20Interpretation" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Event%20Knowledge%20and%20Models%20of%20Logical%20Metonymy%20Interpretation%20alessandrazarcone.de/publication/2014-phdthesis/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=alessandrazarcone.de/publication/2014-phdthesis/&amp;title=Event%20Knowledge%20and%20Models%20of%20Logical%20Metonymy%20Interpretation" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="alessandrazarcone.de"><img class="avatar mr-3 avatar-circle" src="/alessandrazarcone.de/author/alessandra-zarcone/avatar_hu99a1aab5f45af7700f6ea635162db5b6_71522_270x270_fill_q75_lanczos_center.jpg" alt="Alessandra Zarcone"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="alessandrazarcone.de">Alessandra Zarcone</a></h5>
+      <h6 class="card-subtitle">Senior Scientist and Component Lead for Data Acquisition and Management</h6>
+      <p class="card-text">Computational linguist with a background in NLP and in psycholinguistics, working on human-machine interaction.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/alessandrazarcone.de/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/summerlude" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=fACNr0IAAAAJ" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/azarcone" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/alessandrazarcone/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="alessandrazarcone.de/publication/2012-lrec/">Logical metonymies and qualia structures: an annotated database of logical metonymies for German</a></li>
+      
+      <li><a href="alessandrazarcone.de/publication/2008-lrec/">Computational Models for Event Type Classification in Context</a></li>
+      
+      <li><a href="alessandrazarcone.de/publication/2009-mathesis/">Empirical correlates of event types - a priming study</a></li>
+      
+      <li><a href="alessandrazarcone.de/publication/2021-discproc/">Interaction of Script Knowledge and Temporal Discourse Cues in a Visual World Study</a></li>
+      
+      <li><a href="alessandrazarcone.de/publication/2006-bscthesis/">La classificazione azionale del verbo italiano: primi esperimenti computazionali</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    <script src="/alessandrazarcone.de/js/vendor-bundle.min.b73dfaac3b6499dc997741748a7c3fe2.js"></script>
+
+    
+    
+    
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js" integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw==" crossorigin="anonymous"></script>
+        
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/latex.min.js" crossorigin="anonymous"></script>
+        
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+      
+      <script id="search-hit-fuse-template" type="text/x-template">
+        <div class="search-hit" id="summary-{{key}}">
+          <div class="search-hit-content">
+            <div class="search-hit-name">
+              <a href="{{relpermalink}}">{{title}}</a>
+              <div class="article-metadata search-hit-type">{{type}}</div>
+              <p class="search-hit-description">{{snippet}}</p>
+            </div>
+          </div>
+        </div>
+      </script>
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+      
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    
+      
+      
+      
+      
+      
+      
+      
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    <script src="/alessandrazarcone.de/en/js/wowchemy.min.2f5e440ae473aa0ee9dd7f0a7a90a654.js"></script>
+
+    
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+
+
+
+
+</body>
+</html>

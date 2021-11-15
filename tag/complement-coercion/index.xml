@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>complement coercion | Alessandra Zarcone</title>
+    <link>alessandrazarcone.de/tag/complement-coercion/</link>
+      <atom:link href="alessandrazarcone.de/tag/complement-coercion/index.xml" rel="self" type="application/rss+xml" />
+    <description>complement coercion</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/alessandrazarcone.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>complement coercion</title>
+      <link>alessandrazarcone.de/tag/complement-coercion/</link>
+    </image>
+    
+    <item>
+      <title>Event Knowledge and Models of Logical Metonymy Interpretation</title>
+      <link>alessandrazarcone.de/publication/2014-phdthesis/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>alessandrazarcone.de/publication/2014-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logical metonymies and qualia structures: an annotated database of logical metonymies for German</title>
+      <link>alessandrazarcone.de/publication/2012-lrec/</link>
+      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+      <guid>alessandrazarcone.de/publication/2012-lrec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

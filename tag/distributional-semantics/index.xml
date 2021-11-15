@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>distributional semantics | Alessandra Zarcone</title>
+    <link>alessandrazarcone.de/tag/distributional-semantics/</link>
+      <atom:link href="alessandrazarcone.de/tag/distributional-semantics/index.xml" rel="self" type="application/rss+xml" />
+    <description>distributional semantics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/alessandrazarcone.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>distributional semantics</title>
+      <link>alessandrazarcone.de/tag/distributional-semantics/</link>
+    </image>
+    
+    <item>
+      <title>Event Knowledge and Models of Logical Metonymy Interpretation</title>
+      <link>alessandrazarcone.de/publication/2014-phdthesis/</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>alessandrazarcone.de/publication/2014-phdthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
