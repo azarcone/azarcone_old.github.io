@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks &amp; Outreach | Alessandra Zarcone</title>
-    <link>alessandrazarcone.de/event/</link>
-      <atom:link href="alessandrazarcone.de/event/index.xml" rel="self" type="application/rss+xml" />
+    <link>azarcone.github.de/event/</link>
+      <atom:link href="azarcone.github.de/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks &amp; Outreach</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/alessandrazarcone.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Talks &amp; Outreach</title>
-      <link>alessandrazarcone.de/event/</link>
+      <link>azarcone.github.de/event/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>alessandrazarcone.de/talk/example-talk/</link>
+      <link>azarcone.github.de/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/talk/example-talk/</guid>
+      <guid>azarcone.github.de/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,33 +34,33 @@
     
     <item>
       <title>Hey Google, wie sorgt man für Gendergerechtigtkeit in der Maschinellen Sprachverarbeitung?</title>
-      <link>alessandrazarcone.de/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</link>
+      <link>azarcone.github.de/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</link>
       <pubDate>Wed, 21 Apr 2021 13:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</guid>
+      <guid>azarcone.github.de/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event knowledge and typicality in logical metonymy: beyond type clash</title>
-      <link>alessandrazarcone.de/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</link>
+      <link>azarcone.github.de/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</link>
       <pubDate>Tue, 12 Jun 2012 14:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</guid>
+      <guid>azarcone.github.de/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metodi di crowdsourcing nello studio del linguaggio</title>
-      <link>alessandrazarcone.de/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</link>
+      <link>azarcone.github.de/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</link>
       <pubDate>Tue, 06 Dec 2011 10:15:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</guid>
+      <guid>azarcone.github.de/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit Events for Event-/Entity-Ambiguous Nouns</title>
-      <link>alessandrazarcone.de/talk/implicit-events-for-event-/entity-ambiguous-nouns/</link>
+      <link>azarcone.github.de/talk/implicit-events-for-event-/entity-ambiguous-nouns/</link>
       <pubDate>Tue, 20 Jul 2010 15:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/talk/implicit-events-for-event-/entity-ambiguous-nouns/</guid>
+      <guid>azarcone.github.de/talk/implicit-events-for-event-/entity-ambiguous-nouns/</guid>
       <description></description>
     </item>
     

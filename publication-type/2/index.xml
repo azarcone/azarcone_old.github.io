@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Alessandra Zarcone</title>
-    <link>alessandrazarcone.de/publication-type/2/</link>
-      <atom:link href="alessandrazarcone.de/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>azarcone.github.de/publication-type/2/</link>
+      <atom:link href="azarcone.github.de/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/alessandrazarcone.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>alessandrazarcone.de/publication-type/2/</link>
+      <link>azarcone.github.de/publication-type/2/</link>
     </image>
     
     <item>
       <title>Interaction of Script Knowledge and Temporal Discourse Cues in a Visual World Study</title>
-      <link>alessandrazarcone.de/publication/2021-discproc/</link>
+      <link>azarcone.github.de/publication/2021-discproc/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/publication/2021-discproc/</guid>
+      <guid>azarcone.github.de/publication/2021-discproc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crowdsourcing ecologically-valid dialogue data for German</title>
-      <link>alessandrazarcone.de/publication/2021-frontcomputsci/</link>
+      <link>azarcone.github.de/publication/2021-frontcomputsci/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/publication/2021-frontcomputsci/</guid>
+      <guid>azarcone.github.de/publication/2021-frontcomputsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Complement Coercion: The Joint Effects of Type and Typicality</title>
-      <link>alessandrazarcone.de/publication/2017-frontpsycol/</link>
+      <link>azarcone.github.de/publication/2017-frontpsycol/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/publication/2017-frontpsycol/</guid>
+      <guid>azarcone.github.de/publication/2017-frontpsycol/</guid>
       <description></description>
     </item>
     

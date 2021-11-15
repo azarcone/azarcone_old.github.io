@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Alessandra Zarcone</title>
-    <link>alessandrazarcone.de/publication-type/1/</link>
-      <atom:link href="alessandrazarcone.de/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>azarcone.github.de/publication-type/1/</link>
+      <atom:link href="azarcone.github.de/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/alessandrazarcone.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>/azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>alessandrazarcone.de/publication-type/1/</link>
+      <link>azarcone.github.de/publication-type/1/</link>
     </image>
     
     <item>
       <title>Not So Fast, Classifier – Accuracy and Entropy Reduction in Incremental Intent Classification</title>
-      <link>alessandrazarcone.de/publication/2021-nlp4convai/</link>
+      <link>azarcone.github.de/publication/2021-nlp4convai/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/publication/2021-nlp4convai/</guid>
+      <guid>azarcone.github.de/publication/2021-nlp4convai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logical metonymies and qualia structures: an annotated database of logical metonymies for German</title>
-      <link>alessandrazarcone.de/publication/2012-lrec/</link>
+      <link>azarcone.github.de/publication/2012-lrec/</link>
       <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/publication/2012-lrec/</guid>
+      <guid>azarcone.github.de/publication/2012-lrec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Models for Event Type Classification in Context</title>
-      <link>alessandrazarcone.de/publication/2008-lrec/</link>
+      <link>azarcone.github.de/publication/2008-lrec/</link>
       <pubDate>Mon, 26 May 2008 00:00:00 +0000</pubDate>
-      <guid>alessandrazarcone.de/publication/2008-lrec/</guid>
+      <guid>azarcone.github.de/publication/2008-lrec/</guid>
       <description></description>
     </item>
     
