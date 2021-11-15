@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NLU | Alessandra Zarcone</title>
-    <link>http://azarcone.github.de/tag/nlu/</link>
-      <atom:link href="http://azarcone.github.de/tag/nlu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://azarcone.github.io/tag/nlu/</link>
+      <atom:link href="http://azarcone.github.io/tag/nlu/index.xml" rel="self" type="application/rss+xml" />
     <description>NLU</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>NLU</title>
-      <link>http://azarcone.github.de/tag/nlu/</link>
+      <link>http://azarcone.github.io/tag/nlu/</link>
     </image>
     
     <item>
       <title>Not So Fast, Classifier – Accuracy and Entropy Reduction in Incremental Intent Classification</title>
-      <link>http://azarcone.github.de/publication/2021-nlp4convai/</link>
+      <link>http://azarcone.github.io/publication/2021-nlp4convai/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2021-nlp4convai/</guid>
+      <guid>http://azarcone.github.io/publication/2021-nlp4convai/</guid>
       <description></description>
     </item>
     

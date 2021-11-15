@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessandra Zarcone</title>
-    <link>http://azarcone.github.de/</link>
-      <atom:link href="http://azarcone.github.de/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://azarcone.github.io/</link>
+      <atom:link href="http://azarcone.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandra Zarcone</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Alessandra Zarcone</title>
-      <link>http://azarcone.github.de/</link>
+      <link>http://azarcone.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>http://azarcone.github.de/talk/example-talk/</link>
+      <link>http://azarcone.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/talk/example-talk/</guid>
+      <guid>http://azarcone.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,41 +34,41 @@
     
     <item>
       <title>Not So Fast, Classifier – Accuracy and Entropy Reduction in Incremental Intent Classification</title>
-      <link>http://azarcone.github.de/publication/2021-nlp4convai/</link>
+      <link>http://azarcone.github.io/publication/2021-nlp4convai/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2021-nlp4convai/</guid>
+      <guid>http://azarcone.github.io/publication/2021-nlp4convai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interaction of Script Knowledge and Temporal Discourse Cues in a Visual World Study</title>
-      <link>http://azarcone.github.de/publication/2021-discproc/</link>
+      <link>http://azarcone.github.io/publication/2021-discproc/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2021-discproc/</guid>
+      <guid>http://azarcone.github.io/publication/2021-discproc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crowdsourcing ecologically-valid dialogue data for German</title>
-      <link>http://azarcone.github.de/publication/2021-frontcomputsci/</link>
+      <link>http://azarcone.github.io/publication/2021-frontcomputsci/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2021-frontcomputsci/</guid>
+      <guid>http://azarcone.github.io/publication/2021-frontcomputsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hey Google, wie sorgt man für Gendergerechtigtkeit in der Maschinellen Sprachverarbeitung?</title>
-      <link>http://azarcone.github.de/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</link>
+      <link>http://azarcone.github.io/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</link>
       <pubDate>Wed, 21 Apr 2021 13:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</guid>
+      <guid>http://azarcone.github.io/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>http://azarcone.github.de/post/getting-started/</link>
+      <link>http://azarcone.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/post/getting-started/</guid>
+      <guid>http://azarcone.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -143,9 +143,9 @@
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>http://azarcone.github.de/post/writing-technical-content/</link>
+      <link>http://azarcone.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/post/writing-technical-content/</guid>
+      <guid>http://azarcone.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -169,7 +169,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-654128937&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-516728934&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -179,7 +179,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-654128937&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-516728934&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -407,9 +407,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>http://azarcone.github.de/post/jupyter/</link>
+      <link>http://azarcone.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/post/jupyter/</guid>
+      <guid>http://azarcone.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -471,9 +471,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>http://azarcone.github.de/slides/example/</link>
+      <link>http://azarcone.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/slides/example/</guid>
+      <guid>http://azarcone.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -600,81 +600,81 @@ $$&lt;/p&gt;
     
     <item>
       <title>Complement Coercion: The Joint Effects of Type and Typicality</title>
-      <link>http://azarcone.github.de/publication/2017-frontpsycol/</link>
+      <link>http://azarcone.github.io/publication/2017-frontpsycol/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2017-frontpsycol/</guid>
+      <guid>http://azarcone.github.io/publication/2017-frontpsycol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event Knowledge and Models of Logical Metonymy Interpretation</title>
-      <link>http://azarcone.github.de/publication/2014-phdthesis/</link>
+      <link>http://azarcone.github.io/publication/2014-phdthesis/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2014-phdthesis/</guid>
+      <guid>http://azarcone.github.io/publication/2014-phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event knowledge and typicality in logical metonymy: beyond type clash</title>
-      <link>http://azarcone.github.de/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</link>
+      <link>http://azarcone.github.io/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</link>
       <pubDate>Tue, 12 Jun 2012 14:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</guid>
+      <guid>http://azarcone.github.io/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logical metonymies and qualia structures: an annotated database of logical metonymies for German</title>
-      <link>http://azarcone.github.de/publication/2012-lrec/</link>
+      <link>http://azarcone.github.io/publication/2012-lrec/</link>
       <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2012-lrec/</guid>
+      <guid>http://azarcone.github.io/publication/2012-lrec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metodi di crowdsourcing nello studio del linguaggio</title>
-      <link>http://azarcone.github.de/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</link>
+      <link>http://azarcone.github.io/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</link>
       <pubDate>Tue, 06 Dec 2011 10:15:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</guid>
+      <guid>http://azarcone.github.io/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Implicit Events for Event-/Entity-Ambiguous Nouns</title>
-      <link>http://azarcone.github.de/talk/implicit-events-for-event-/entity-ambiguous-nouns/</link>
+      <link>http://azarcone.github.io/talk/implicit-events-for-event-/entity-ambiguous-nouns/</link>
       <pubDate>Tue, 20 Jul 2010 15:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/talk/implicit-events-for-event-/entity-ambiguous-nouns/</guid>
+      <guid>http://azarcone.github.io/talk/implicit-events-for-event-/entity-ambiguous-nouns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical correlates of event types - a priming study</title>
-      <link>http://azarcone.github.de/publication/2009-mathesis/</link>
+      <link>http://azarcone.github.io/publication/2009-mathesis/</link>
       <pubDate>Tue, 17 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2009-mathesis/</guid>
+      <guid>http://azarcone.github.io/publication/2009-mathesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Models for Event Type Classification in Context</title>
-      <link>http://azarcone.github.de/publication/2008-lrec/</link>
+      <link>http://azarcone.github.io/publication/2008-lrec/</link>
       <pubDate>Mon, 26 May 2008 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2008-lrec/</guid>
+      <guid>http://azarcone.github.io/publication/2008-lrec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La classificazione azionale del verbo italiano: primi esperimenti computazionali</title>
-      <link>http://azarcone.github.de/publication/2006-bscthesis/</link>
+      <link>http://azarcone.github.io/publication/2006-bscthesis/</link>
       <pubDate>Thu, 12 Oct 2006 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/publication/2006-bscthesis/</guid>
+      <guid>http://azarcone.github.io/publication/2006-bscthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>http://azarcone.github.de/admin/config.yml</link>
+      <link>http://azarcone.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://azarcone.github.de/admin/config.yml</guid>
+      <guid>http://azarcone.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
