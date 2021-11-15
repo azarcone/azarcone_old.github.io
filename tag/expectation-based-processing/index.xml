@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>expectation-based processing | Alessandra Zarcone</title>
-    <link>azarcone.github.de/tag/expectation-based-processing/</link>
-      <atom:link href="azarcone.github.de/tag/expectation-based-processing/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://azarcone.github.de/tag/expectation-based-processing/</link>
+      <atom:link href="http://azarcone.github.de/tag/expectation-based-processing/index.xml" rel="self" type="application/rss+xml" />
     <description>expectation-based processing</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 26 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>expectation-based processing</title>
-      <link>azarcone.github.de/tag/expectation-based-processing/</link>
+      <link>http://azarcone.github.de/tag/expectation-based-processing/</link>
     </image>
     
     <item>
       <title>Interaction of Script Knowledge and Temporal Discourse Cues in a Visual World Study</title>
-      <link>azarcone.github.de/publication/2021-discproc/</link>
+      <link>http://azarcone.github.de/publication/2021-discproc/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2021-discproc/</guid>
+      <guid>http://azarcone.github.de/publication/2021-discproc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event Knowledge and Models of Logical Metonymy Interpretation</title>
-      <link>azarcone.github.de/publication/2014-phdthesis/</link>
+      <link>http://azarcone.github.de/publication/2014-phdthesis/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2014-phdthesis/</guid>
+      <guid>http://azarcone.github.de/publication/2014-phdthesis/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yannick Frommherz | Alessandra Zarcone</title>
-    <link>azarcone.github.de/author/yannick-frommherz/</link>
-      <atom:link href="azarcone.github.de/author/yannick-frommherz/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://azarcone.github.de/author/yannick-frommherz/</link>
+      <atom:link href="http://azarcone.github.de/author/yannick-frommherz/index.xml" rel="self" type="application/rss+xml" />
     <description>Yannick Frommherz</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Yannick Frommherz</title>
-      <link>azarcone.github.de/author/yannick-frommherz/</link>
+      <link>http://azarcone.github.de/author/yannick-frommherz/</link>
     </image>
     
     <item>
       <title>Crowdsourcing ecologically-valid dialogue data for German</title>
-      <link>azarcone.github.de/publication/2021-frontcomputsci/</link>
+      <link>http://azarcone.github.de/publication/2021-frontcomputsci/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2021-frontcomputsci/</guid>
+      <guid>http://azarcone.github.de/publication/2021-frontcomputsci/</guid>
       <description></description>
     </item>
     

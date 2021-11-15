@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Padó | Alessandra Zarcone</title>
-    <link>azarcone.github.de/author/sebastian-pado/</link>
-      <atom:link href="azarcone.github.de/author/sebastian-pado/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://azarcone.github.de/author/sebastian-pado/</link>
+      <atom:link href="http://azarcone.github.de/author/sebastian-pado/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian Padó</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 24 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <url>http://azarcone.github.de/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Sebastian Padó</title>
-      <link>azarcone.github.de/author/sebastian-pado/</link>
+      <link>http://azarcone.github.de/author/sebastian-pado/</link>
     </image>
     
     <item>
       <title>Complement Coercion: The Joint Effects of Type and Typicality</title>
-      <link>azarcone.github.de/publication/2017-frontpsycol/</link>
+      <link>http://azarcone.github.de/publication/2017-frontpsycol/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2017-frontpsycol/</guid>
+      <guid>http://azarcone.github.de/publication/2017-frontpsycol/</guid>
       <description></description>
     </item>
     

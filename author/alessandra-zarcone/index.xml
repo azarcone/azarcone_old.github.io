@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessandra Zarcone</title>
-    <link>azarcone.github.de/author/alessandra-zarcone/</link>
-      <atom:link href="azarcone.github.de/author/alessandra-zarcone/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://azarcone.github.de/author/alessandra-zarcone/</link>
+      <atom:link href="http://azarcone.github.de/author/alessandra-zarcone/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandra Zarcone</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/azarcone.github.de/author/alessandra-zarcone/avatar_hu99a1aab5f45af7700f6ea635162db5b6_71522_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://azarcone.github.de/author/alessandra-zarcone/avatar_hu99a1aab5f45af7700f6ea635162db5b6_71522_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Alessandra Zarcone</title>
-      <link>azarcone.github.de/author/alessandra-zarcone/</link>
+      <link>http://azarcone.github.de/author/alessandra-zarcone/</link>
     </image>
     
     <item>
       <title>Not So Fast, Classifier – Accuracy and Entropy Reduction in Incremental Intent Classification</title>
-      <link>azarcone.github.de/publication/2021-nlp4convai/</link>
+      <link>http://azarcone.github.de/publication/2021-nlp4convai/</link>
       <pubDate>Thu, 11 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2021-nlp4convai/</guid>
+      <guid>http://azarcone.github.de/publication/2021-nlp4convai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interaction of Script Knowledge and Temporal Discourse Cues in a Visual World Study</title>
-      <link>azarcone.github.de/publication/2021-discproc/</link>
+      <link>http://azarcone.github.de/publication/2021-discproc/</link>
       <pubDate>Mon, 26 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2021-discproc/</guid>
+      <guid>http://azarcone.github.de/publication/2021-discproc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crowdsourcing ecologically-valid dialogue data for German</title>
-      <link>azarcone.github.de/publication/2021-frontcomputsci/</link>
+      <link>http://azarcone.github.de/publication/2021-frontcomputsci/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2021-frontcomputsci/</guid>
+      <guid>http://azarcone.github.de/publication/2021-frontcomputsci/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>azarcone.github.de/post/getting-started/</link>
+      <link>http://azarcone.github.de/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/post/getting-started/</guid>
+      <guid>http://azarcone.github.de/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -115,9 +115,9 @@
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>azarcone.github.de/post/jupyter/</link>
+      <link>http://azarcone.github.de/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/post/jupyter/</guid>
+      <guid>http://azarcone.github.de/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -179,49 +179,49 @@ date: 2019-09-01
     
     <item>
       <title>Complement Coercion: The Joint Effects of Type and Typicality</title>
-      <link>azarcone.github.de/publication/2017-frontpsycol/</link>
+      <link>http://azarcone.github.de/publication/2017-frontpsycol/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2017-frontpsycol/</guid>
+      <guid>http://azarcone.github.de/publication/2017-frontpsycol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event Knowledge and Models of Logical Metonymy Interpretation</title>
-      <link>azarcone.github.de/publication/2014-phdthesis/</link>
+      <link>http://azarcone.github.de/publication/2014-phdthesis/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2014-phdthesis/</guid>
+      <guid>http://azarcone.github.de/publication/2014-phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Logical metonymies and qualia structures: an annotated database of logical metonymies for German</title>
-      <link>azarcone.github.de/publication/2012-lrec/</link>
+      <link>http://azarcone.github.de/publication/2012-lrec/</link>
       <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2012-lrec/</guid>
+      <guid>http://azarcone.github.de/publication/2012-lrec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Empirical correlates of event types - a priming study</title>
-      <link>azarcone.github.de/publication/2009-mathesis/</link>
+      <link>http://azarcone.github.de/publication/2009-mathesis/</link>
       <pubDate>Tue, 17 Mar 2009 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2009-mathesis/</guid>
+      <guid>http://azarcone.github.de/publication/2009-mathesis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computational Models for Event Type Classification in Context</title>
-      <link>azarcone.github.de/publication/2008-lrec/</link>
+      <link>http://azarcone.github.de/publication/2008-lrec/</link>
       <pubDate>Mon, 26 May 2008 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2008-lrec/</guid>
+      <guid>http://azarcone.github.de/publication/2008-lrec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>La classificazione azionale del verbo italiano: primi esperimenti computazionali</title>
-      <link>azarcone.github.de/publication/2006-bscthesis/</link>
+      <link>http://azarcone.github.de/publication/2006-bscthesis/</link>
       <pubDate>Thu, 12 Oct 2006 00:00:00 +0000</pubDate>
-      <guid>azarcone.github.de/publication/2006-bscthesis/</guid>
+      <guid>http://azarcone.github.de/publication/2006-bscthesis/</guid>
       <description></description>
     </item>
     
