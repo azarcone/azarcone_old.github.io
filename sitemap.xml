@@ -4,11 +4,7 @@
   
   
   <url>
-    <loc>http://azarcone.github.io/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod></url>
+    <loc>http://azarcone.github.io/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
   <url>
@@ -100,6 +96,10 @@
   <url>
     <loc>http://azarcone.github.io/tag/voice-assistants/</loc><lastmod>2021-06-16T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>http://azarcone.github.io/talk/hey-google-wie-sorgt-man-fur-gendergerechtigtkeit-in-der-maschinellen-sprachverarbeitung/</loc><lastmod>2021-04-21T13:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/event/</loc><lastmod>2021-04-21T13:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://azarcone.github.io/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod></url>
@@ -119,10 +119,6 @@
     <loc>http://azarcone.github.io/publication/2020-lrec/</loc><lastmod>2020-05-11T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2020-05-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2017-11-24T00:00:00+00:00</lastmod></url>
   <url>
@@ -201,6 +197,16 @@
     <loc>http://azarcone.github.io/publication/2014-phdthesis/</loc><lastmod>2014-09-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/publication/2014-cogscij/</loc><lastmod>2014-03-14T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/talk/incrementality-in-compositional-distributional-semantics/</loc><lastmod>2013-11-10T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/talk/dimmi-con-che-parole-vai-e-ti-diro-chi-sei-modelli-distribuzionali-del-significato-ed-esperimenti-psicolinguistici/</loc><lastmod>2012-12-21T11:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/talk/logical-metonymy-resolution-in-a-words-as-cues-framework-beyond-type-clash/</loc><lastmod>2012-11-29T10:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</loc><lastmod>2012-06-12T14:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</loc><lastmod>2011-12-06T10:15:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/publication/2009-mathesis/</loc><lastmod>2009-03-17T00:00:00+00:00</lastmod></url>
   <url>
