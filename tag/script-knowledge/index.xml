@@ -28,5 +28,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Inducing Script Structure from Crowdsourced Event Descriptions via Semi-Supervised Clustering</title>
+      <link>http://azarcone.github.io/publication/2017-lsdsem/</link>
+      <pubDate>Mon, 03 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2017-lsdsem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeScript: A Crowdsourced Corpus for the Acquisition of High-Quality Script Knowledge</title>
+      <link>http://azarcone.github.io/publication/2016-lrec/</link>
+      <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2016-lrec/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
