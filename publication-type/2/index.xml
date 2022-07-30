@@ -29,6 +29,22 @@
     </item>
     
     <item>
+      <title>CROWDSS: A crowdsourced, ecologically-valid dialogue dataset for German</title>
+      <link>http://azarcone.github.io/dataset/2021-crowdss/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/dataset/2021-crowdss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inCLINC: incremental intent annotations of the CLINC dataset</title>
+      <link>http://azarcone.github.io/dataset/2021-inclinc/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/dataset/2021-inclinc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Complement Coercion: The Joint Effects of Type and Typicality</title>
       <link>http://azarcone.github.io/publication/2017-front-psychol/</link>
       <pubDate>Fri, 24 Nov 2017 00:00:00 +0000</pubDate>

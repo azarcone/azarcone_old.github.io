@@ -69,6 +69,22 @@
     </item>
     
     <item>
+      <title>CROWDSS: A crowdsourced, ecologically-valid dialogue dataset for German</title>
+      <link>http://azarcone.github.io/dataset/2021-crowdss/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/dataset/2021-crowdss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inCLINC: incremental intent annotations of the CLINC dataset</title>
+      <link>http://azarcone.github.io/dataset/2021-inclinc/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/dataset/2021-inclinc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New Domain, Major Effort? How Much Data is Necessary to Adapt a Temporal Tagger to the Voice Assistant Domain</title>
       <link>http://azarcone.github.io/publication/2021-iwcs/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
@@ -211,6 +227,22 @@
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lexical-semantic factors in event interpretation</title>
+      <link>http://azarcone.github.io/project/d6/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/project/d6/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Principal Investigator: Sebastian Padó, Sabine Schulte im Walde&lt;br clear=&#34;none&#34;&gt;Researchers: Alessandra Zarcone, Jason Utt&lt;br clear=&#34;none&#34;&gt;Associated Ph.D. Student: Gabriella Lapesa &lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;Project D6 was concerned with a particular phenomenon of incremental specification in context, namely the interpretation of verb-object pairs. While some verb-object pairs are interpreted compositionally (&#34;simple composition&#34;, as in &lt;em&gt;begin a holiday&lt;/em&gt;), the understanding of others involves covert events that are not realised on the surface (&#34;enriched composition&#34;: for example, &lt;em&gt;begin a song&lt;/em&gt;, in neutral context, implies &lt;em&gt;begin &lt;underline&gt;singing&lt;/underline&gt; a song&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;The interpretation of such pairs involves two specification steps:&lt;br clear=&#34;none&#34;&gt;(1) the decision between simple and enriched composition;&lt;br clear=&#34;none&#34;&gt;(2) in enriched composition, the specification of the covert event.&lt;/p&gt;
+&lt;p&gt;The project used psycholinguistic and computational techniques to elucidate the as yet neglected role of lexical-semantic context factors. Concretely, the literature about step (1) assumes that the ontological type of the object (event/object) is the main determinant. Since this is arguably an oversimplification, it collected and modeled experimental data on:&lt;br clear=&#34;none&#34;&gt;(a) the behaviour of ambiguous nominalisations and nouns;&lt;br clear=&#34;none&#34;&gt;(b) the respective influence of ontological type and plausibility;&lt;br clear=&#34;none&#34;&gt;(c) the role played by aspectual features.&lt;/p&gt;
+&lt;p&gt;In its turn, step (2) was treated by previous work as merely the choice of a single most plausible event. In contrast, the project elicited a range of covert events for each instance of enriched composition (for &lt;em&gt;begin a song&lt;/em&gt;, this might be &lt;em&gt;sing&lt;/em&gt;, &lt;em&gt;chant&lt;/em&gt;, and &lt;em&gt;croon&lt;/em&gt;), and analysed what semantic relations hold within this set. This analysis was used to model the interpretations in terms of concepts, to be approximated by verb clusters. The interpretation process will be analysed in parallel for English and Italian.&lt;/p&gt;
+&lt;p&gt;A practical result of our studies was a framework for distributional corpus-driven, broad-coverage computational models that predicts both the simple/enriched composition distinction for sentences potentially involving covert events, and, in the case of enriched composition, the range of interpretations appropriate for the present context.&lt;/p&gt;
+&lt;p&gt;Finally, it extended the scope of our core results in three ways.&lt;br clear=&#34;none&#34;&gt;(1) We phrased the recovery of covert event interpretations as an entailment task, to make our phenomenon accessible to a larger audience in computational semantics;&lt;br clear=&#34;none&#34;&gt;(2) We studied a related phenomenon, namely Italian &lt;em&gt;da&lt;/em&gt;-nominals, which also imply covert events, e.g.&lt;br clear=&#34;none&#34;&gt;&lt;em&gt;scatola da scarpe&lt;/em&gt; / &lt;em&gt;shoe box&lt;/em&gt; -&amp;gt; &lt;em&gt;box &lt;span class=&#34;c6&#34;&gt;to store&lt;/span&gt; shoes&lt;/em&gt;;&lt;br clear=&#34;none&#34;&gt;(3) We developed a distributional-driven characterisation of constructions whose interpretation involves covert events.&lt;/p&gt;
+The &lt;a title=&#34;Metonymy2011&#34; href=&#34;https://www.ims.uni-stuttgart.de/institut/aktuelles/veranstaltung/Metonymy-2011/&#34; shape=&#34;rect&#34;&gt;Metonymy 2011&lt;/a&gt; workshop (Stuttgart, 15th-16th September 2011) was part of the project activities.
 </description>
     </item>
     

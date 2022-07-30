@@ -28,5 +28,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>CROWDSS: A crowdsourced, ecologically-valid dialogue dataset for German</title>
+      <link>http://azarcone.github.io/dataset/2021-crowdss/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/dataset/2021-crowdss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inCLINC: incremental intent annotations of the CLINC dataset</title>
+      <link>http://azarcone.github.io/dataset/2021-inclinc/</link>
+      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/dataset/2021-inclinc/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
