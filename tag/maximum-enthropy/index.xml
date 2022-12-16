@@ -5,12 +5,36 @@
     <link>http://azarcone.github.io/tag/maximum-enthropy/</link>
       <atom:link href="http://azarcone.github.io/tag/maximum-enthropy/index.xml" rel="self" type="application/rss+xml" />
     <description>Maximum Enthropy</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Oct 2006 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 04 Nov 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Maximum Enthropy</title>
       <link>http://azarcone.github.io/tag/maximum-enthropy/</link>
     </image>
+    
+    <item>
+      <title>Event Types in the Mind and in the Corpus</title>
+      <link>http://azarcone.github.io/publication/2010-verb2/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2010-verb2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Un modello stocastico della classificazione azionale</title>
+      <link>http://azarcone.github.io/publication/2009-sli/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2009-sli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Models for Event Type Classification in Context</title>
+      <link>http://azarcone.github.io/publication/2008-lrec/</link>
+      <pubDate>Wed, 28 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2008-lrec/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>La classificazione azionale del verbo italiano: primi esperimenti computazionali</title>

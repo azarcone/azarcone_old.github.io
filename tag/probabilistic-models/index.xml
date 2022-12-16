@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>probabilistic models | Alessandra Zarcone</title>
+    <link>http://azarcone.github.io/tag/probabilistic-models/</link>
+      <atom:link href="http://azarcone.github.io/tag/probabilistic-models/index.xml" rel="self" type="application/rss+xml" />
+    <description>probabilistic models</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>probabilistic models</title>
+      <link>http://azarcone.github.io/tag/probabilistic-models/</link>
+    </image>
+    
+    <item>
+      <title>Modeling covert event retrieval in logical metonymy: probabilistic and distributional accounts</title>
+      <link>http://azarcone.github.io/publication/2012-cmcl/</link>
+      <pubDate>Thu, 07 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2012-cmcl/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,20 @@
     <link>http://azarcone.github.io/publication-type/0/</link>
       <atom:link href="http://azarcone.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
     <description>0</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Mar 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>0</title>
       <link>http://azarcone.github.io/publication-type/0/</link>
     </image>
+    
+    <item>
+      <title>Script knowledge and event order in a visual world paradigm study</title>
+      <link>http://azarcone.github.io/publication/2017-cuny/</link>
+      <pubDate>Thu, 30 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2017-cuny/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Type and Thematic Fit in Logical Metonymy</title>
@@ -21,10 +29,34 @@
     </item>
     
     <item>
+      <title>Priming-based study of durativity and resultativity in Spanish and Italian</title>
+      <link>http://azarcone.github.io/publication/2014-chronos/</link>
+      <pubDate>Mon, 16 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2014-chronos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Logical metonymy: Disentangling object type and thematic fit</title>
       <link>http://azarcone.github.io/publication/2014-amlap/</link>
       <pubDate>Mon, 02 Sep 2013 00:00:00 +0000</pubDate>
       <guid>http://azarcone.github.io/publication/2014-amlap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An expectation-based account of logical metonymy interpretation</title>
+      <link>http://azarcone.github.io/publication/2013-detec/</link>
+      <pubDate>Thu, 20 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2013-detec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What semantic priming experiments tell us about aspectual features: cross-linguistic comparison</title>
+      <link>http://azarcone.github.io/publication/2011-chronos/</link>
+      <pubDate>Mon, 18 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2011-chronos/</guid>
       <description></description>
     </item>
     

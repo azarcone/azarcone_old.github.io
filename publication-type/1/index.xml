@@ -5,12 +5,20 @@
     <link>http://azarcone.github.io/publication-type/1/</link>
       <atom:link href="http://azarcone.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>http://azarcone.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>GiCCS: A German in-Context Conversational Similarity Benchmark</title>
+      <link>http://azarcone.github.io/publication/2022-gem/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2022-gem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Not So Fast, Classifier – Accuracy and Entropy Reduction in Incremental Intent Classification</title>
@@ -65,6 +73,94 @@
       <link>http://azarcone.github.io/publication/2015-networds/</link>
       <pubDate>Mon, 30 Mar 2015 00:00:00 +0000</pubDate>
       <guid>http://azarcone.github.io/publication/2015-networds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fitting, not clashing! A distributional semantic model of logical metonymy</title>
+      <link>http://azarcone.github.io/publication/2013-iwcs/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2013-iwcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The curious case of metonymic verbs: A distributional characterization</title>
+      <link>http://azarcone.github.io/publication/2013-tfds/</link>
+      <pubDate>Tue, 19 Mar 2013 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2013-tfds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inferring Covert Events in Logical Metonymies: a Probe Recognition Experiment</title>
+      <link>http://azarcone.github.io/publication/2012-cogsci/</link>
+      <pubDate>Sat, 01 Sep 2012 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2012-cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling covert event retrieval in logical metonymy: probabilistic and distributional accounts</title>
+      <link>http://azarcone.github.io/publication/2012-cmcl/</link>
+      <pubDate>Thu, 07 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2012-cmcl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Logical metonymies and qualia structures: an annotated database of logical metonymies for German</title>
+      <link>http://azarcone.github.io/publication/2012-lrec/</link>
+      <pubDate>Mon, 21 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2012-lrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aktionsarten, speech and gesture</title>
+      <link>http://azarcone.github.io/publication/2011-gespin/</link>
+      <pubDate>Mon, 05 Sep 2011 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2011-gespin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Event Knowledge in Logical Metonymy Resolution</title>
+      <link>http://azarcone.github.io/publication/2011-cogsci/</link>
+      <pubDate>Wed, 20 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2011-cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Types in the Mind and in the Corpus</title>
+      <link>http://azarcone.github.io/publication/2010-verb2/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2010-verb2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“I like work: I can sit and look at it for hours” - Type clash vs. plausibility in covert event recovery</title>
+      <link>http://azarcone.github.io/publication/2010-verb1/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2010-verb1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priming Effects on Event Types Classification: Effects of Word and Picture Stimuli</title>
+      <link>http://azarcone.github.io/publication/2010-cogsci/</link>
+      <pubDate>Wed, 11 Aug 2010 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2010-cogsci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Models for Event Type Classification in Context</title>
+      <link>http://azarcone.github.io/publication/2008-lrec/</link>
+      <pubDate>Wed, 28 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2008-lrec/</guid>
       <description></description>
     </item>
     

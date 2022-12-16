@@ -4,7 +4,43 @@
   
   
   <url>
-    <loc>http://azarcone.github.io/</loc><lastmod>2022-06-28T15:00:00+00:00</lastmod></url>
+    <loc>http://azarcone.github.io/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication-type/1/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/benchmark/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/conversational-ai/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/crowdsourcing/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/data-centric/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/evaluation/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2022-gem/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/nlu/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication_types/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/semantic-similarity/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/semantic-textual-similarity/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tags/</loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2022-12-07T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/talk/data-and-user-centric-nlp/</loc><lastmod>2022-06-28T15:00:00+00:00</lastmod></url>
   <url>
@@ -13,16 +49,6 @@
     <loc>http://azarcone.github.io/talk/conversational-ai-between-hype-and-hope-a-case-for-data-and-human-centric-approaches/</loc><lastmod>2022-06-15T13:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/talk/wie-alexa-sprechen-lernt-sprachassistenz-zwischen-datenhunger-und-datenschutz/</loc><lastmod>2022-05-25T19:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/publication-type/1/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc></loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/tag/crowdsourcing/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/tag/data-centric/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/tag/human-upper-bound/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
   <url>
@@ -38,15 +64,7 @@
   <url>
     <loc></loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://azarcone.github.io/tag/nlu/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://azarcone.github.io/publication/2021-nlp4convai/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/publication_types/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/publication/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
-  <url>
-    <loc>http://azarcone.github.io/tags/</loc><lastmod>2021-11-11T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/publication-type/2/</loc><lastmod>2021-07-26T00:00:00+00:00</lastmod></url>
   <url>
@@ -130,8 +148,6 @@
   <url>
     <loc>http://azarcone.github.io/publication/2020-lrec/</loc><lastmod>2020-05-11T00:00:00+00:00</lastmod></url>
   <url>
-    <loc></loc><lastmod>2020-05-11T00:00:00+00:00</lastmod></url>
-  <url>
     <loc></loc><lastmod>2017-11-24T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/tag/complement-coercion/</loc><lastmod>2017-11-24T00:00:00+00:00</lastmod></url>
@@ -161,6 +177,10 @@
     <loc></loc><lastmod>2017-04-03T00:00:00+00:00</lastmod></url>
   <url>
     <loc></loc><lastmod>2017-04-03T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication-type/0/</loc><lastmod>2017-03-30T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2017-cuny/</loc><lastmod>2017-03-30T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/tag/attention/</loc><lastmod>2016-06-06T00:00:00+00:00</lastmod></url>
   <url>
@@ -196,6 +216,8 @@
   <url>
     <loc>http://azarcone.github.io/publication/2015-networds/</loc><lastmod>2015-03-30T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>http://azarcone.github.io/publication-type/6/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://azarcone.github.io/tag/aspectual-features/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/publication/2015-cahierschronos/</loc><lastmod>2015-01-01T00:00:00+00:00</lastmod></url>
@@ -212,9 +234,11 @@
   <url>
     <loc>http://azarcone.github.io/publication/2014-phdthesis/</loc><lastmod>2014-09-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://azarcone.github.io/publication-type/0/</loc><lastmod>2014-07-23T00:00:00+00:00</lastmod></url>
-  <url>
     <loc>http://azarcone.github.io/publication/2014-cogsci/</loc><lastmod>2014-07-23T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2014-06-16T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2014-chronos/</loc><lastmod>2014-06-16T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/publication/2014-cogscij/</loc><lastmod>2014-03-14T00:00:00+00:00</lastmod></url>
   <url>
@@ -222,18 +246,82 @@
   <url>
     <loc>http://azarcone.github.io/publication/2014-amlap/</loc><lastmod>2013-09-02T00:00:00+00:00</lastmod></url>
   <url>
+    <loc>http://azarcone.github.io/publication/2013-detec/</loc><lastmod>2013-06-20T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2013-iwcs/</loc><lastmod>2013-03-19T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2013-03-19T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2013-tfds/</loc><lastmod>2013-03-19T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://azarcone.github.io/talk/dimmi-con-che-parole-vai-e-ti-diro-chi-sei-modelli-distribuzionali-del-significato-ed-esperimenti-psicolinguistici/</loc><lastmod>2012-12-21T11:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/talk/logical-metonymy-resolution-in-a-words-as-cues-framework-beyond-type-clash/</loc><lastmod>2012-11-29T10:00:00+00:00</lastmod></url>
   <url>
+    <loc>http://azarcone.github.io/publication/2012-cogsci/</loc><lastmod>2012-09-01T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/probe-recognition/</loc><lastmod>2012-09-01T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://azarcone.github.io/talk/event-knowledge-and-typicality-in-logical-metonymy-beyond-type-clash/</loc><lastmod>2012-06-12T14:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2012-cmcl/</loc><lastmod>2012-06-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/probabilistic-models/</loc><lastmod>2012-06-07T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/annotation/</loc><lastmod>2012-05-21T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2012-lrec/</loc><lastmod>2012-05-21T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2012-05-21T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2012-russianverb/</loc><lastmod>2012-01-13T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/talk/metodi-di-crowdsourcing-nello-studio-del-linguaggio/</loc><lastmod>2011-12-06T10:15:00+00:00</lastmod></url>
   <url>
+    <loc>http://azarcone.github.io/publication/2011-gespin/</loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/gesture/</loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc></loc><lastmod>2011-09-05T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2011-cogsci/</loc><lastmod>2011-07-20T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2011-chronos/</loc><lastmod>2011-04-18T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2010-verb2/</loc><lastmod>2010-11-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/maximum-enthropy/</loc><lastmod>2010-11-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/plausibility/</loc><lastmod>2010-11-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/tag/self-organizing-maps/</loc><lastmod>2010-11-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2010-verb1/</loc><lastmod>2010-11-04T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2010-cogsci/</loc><lastmod>2010-08-11T00:00:00+00:00</lastmod></url>
+  <url>
     <loc>http://azarcone.github.io/publication/2009-mathesis/</loc><lastmod>2009-03-17T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://azarcone.github.io/publication/2006-bscthesis/</loc><lastmod>2006-10-12T00:00:00+00:00</lastmod></url>
+    <loc>http://azarcone.github.io/publication/2009-sli/</loc><lastmod>2009-01-01T00:00:00+00:00</lastmod></url>
   <url>
-    <loc>http://azarcone.github.io/tag/maximum-enthropy/</loc><lastmod>2006-10-12T00:00:00+00:00</lastmod></url>
+    <loc>http://azarcone.github.io/publication/2008-lrec/</loc><lastmod>2008-05-28T00:00:00+00:00</lastmod></url>
+  <url>
+    <loc>http://azarcone.github.io/publication/2006-bscthesis/</loc><lastmod>2006-10-12T00:00:00+00:00</lastmod></url>
   <url>
     <loc>http://azarcone.github.io/admin/</loc></url></urlset>

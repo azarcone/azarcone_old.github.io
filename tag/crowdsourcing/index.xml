@@ -5,12 +5,20 @@
     <link>http://azarcone.github.io/tag/crowdsourcing/</link>
       <atom:link href="http://azarcone.github.io/tag/crowdsourcing/index.xml" rel="self" type="application/rss+xml" />
     <description>crowdsourcing</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>crowdsourcing</title>
       <link>http://azarcone.github.io/tag/crowdsourcing/</link>
     </image>
+    
+    <item>
+      <title>GiCCS: A German in-Context Conversational Similarity Benchmark</title>
+      <link>http://azarcone.github.io/publication/2022-gem/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2022-gem/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Not So Fast, Classifier – Accuracy and Entropy Reduction in Incremental Intent Classification</title>
@@ -65,6 +73,22 @@
       <link>http://azarcone.github.io/publication/2016-lrec/</link>
       <pubDate>Mon, 23 May 2016 00:00:00 +0000</pubDate>
       <guid>http://azarcone.github.io/publication/2016-lrec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event Types in the Mind and in the Corpus</title>
+      <link>http://azarcone.github.io/publication/2010-verb2/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2010-verb2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“I like work: I can sit and look at it for hours” - Type clash vs. plausibility in covert event recovery</title>
+      <link>http://azarcone.github.io/publication/2010-verb1/</link>
+      <pubDate>Thu, 04 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2010-verb1/</guid>
       <description></description>
     </item>
     
