@@ -5,12 +5,50 @@
     <link>http://azarcone.github.io/</link>
       <atom:link href="http://azarcone.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alessandra Zarcone</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Alessandra Zarcone</title>
       <link>http://azarcone.github.io/</link>
     </image>
+    
+    <item>
+      <title>IMS Workshop on Conversational AI (Winter Semester 2023/24)</title>
+      <link>http://azarcone.github.io/teaching/ims-workshop-23/</link>
+      <pubDate>Fri, 21 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/teaching/ims-workshop-23/</guid>
+      <description>&lt;h4&gt;Description &lt;/h4&gt;
+&lt;p&gt;The workshop offers an immersive learning experience centered on Conversational AI, guiding participants through the process of developing their own chatbot and encouraging them to reflect on the issues related to human-machine interaction that arise when developing chatbots.&lt;/p&gt;
+&lt;h4&gt;When &amp; Where &lt;/h4&gt;
+&lt;p&gt;Monday, 4. December 2023&lt;/br&gt;
+Tuesday, 5. December 2023&lt;/br&gt;
+Friday, 8. December 2023&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;TH Augsburg
+Master Interactive Media Systems&lt;/b&gt;&lt;/p&gt;
+&lt;!-- &lt;h3&gt;Prerequisites &lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;very basic programming knowledge (python)&lt;/li&gt;
+  &lt;li&gt;fascination with human-machine language interactions&lt;/li&gt;
+&lt;/ul&gt; --&gt;
+&lt;h4&gt;Preliminary Schedule &lt;/h4&gt;
+&lt;table&gt;
+&lt;th&gt;
+&lt;td&gt;Day 1&lt;/td&gt;&lt;td&gt;Day 2&lt;/td&gt;&lt;td&gt;Day 3&lt;/td&gt;
+&lt;/th&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;b&gt;Morning&lt;/b&gt;  (09:00 - 12:00)&lt;/td&gt;
+&lt;td&gt;Theory: Intro to Conversational AI, Anatomy of a Dialogue Assistant&lt;/td&gt;&lt;td&gt;Theory:  Basics of Conversational Design&lt;/td&gt;&lt;td&gt;Hands-on Work on your Dialogue Assistant, Intent and Entity Recognition&lt;/td&gt;
+&lt;/tr&gt;
+&lt;td&gt;&lt;b&gt;Afternoon&lt;/b&gt;  (13:00 - 16:30)
+&lt;/td&gt;&lt;td&gt;Practice Session: Implementing a Basic Chatbot, Choosing a Use Case and Simulating Interactions&lt;/td&gt;&lt;td&gt;Practice Session: Dialogue Management, Conversation Flow&lt;/td&gt;&lt;td&gt;Group Presentations: Presentation of Results, Lessons Learned&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+</description>
+    </item>
     
     <item>
       <title>GiCCS: A German in-Context Conversational Similarity Benchmark</title>
