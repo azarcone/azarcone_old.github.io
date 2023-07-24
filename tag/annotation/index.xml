@@ -5,12 +5,20 @@
     <link>http://azarcone.github.io/tag/annotation/</link>
       <atom:link href="http://azarcone.github.io/tag/annotation/index.xml" rel="self" type="application/rss+xml" />
     <description>annotation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 May 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>annotation</title>
       <link>http://azarcone.github.io/tag/annotation/</link>
     </image>
+    
+    <item>
+      <title>Moderne Sprachassistenten zwischen Datenhunger und Datenschutz</title>
+      <link>http://azarcone.github.io/publication/2023-ki/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2023-ki/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Logical metonymies and qualia structures: an annotated database of logical metonymies for German</title>

@@ -5,12 +5,28 @@
     <link>http://azarcone.github.io/tag/semantic-textual-similarity/</link>
       <atom:link href="http://azarcone.github.io/tag/semantic-textual-similarity/index.xml" rel="self" type="application/rss+xml" />
     <description>semantic textual similarity</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>semantic textual similarity</title>
       <link>http://azarcone.github.io/tag/semantic-textual-similarity/</link>
     </image>
+    
+    <item>
+      <title>Bubble up – A Fine-tuning Approach for Style Transfer to Community-specific Subreddit Language</title>
+      <link>http://azarcone.github.io/publication/2023-teach4nlp-copy/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2023-teach4nlp-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Including a contemporary NLP application within an introductory course: an example with student feedback from a University of Applied Sciences</title>
+      <link>http://azarcone.github.io/publication/2023-teach4nlp/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2023-teach4nlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GiCCS: A German in-Context Conversational Similarity Benchmark</title>

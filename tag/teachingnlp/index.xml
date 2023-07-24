@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teachingNLP | Alessandra Zarcone</title>
+    <link>http://azarcone.github.io/tag/teachingnlp/</link>
+      <atom:link href="http://azarcone.github.io/tag/teachingnlp/index.xml" rel="self" type="application/rss+xml" />
+    <description>teachingNLP</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://azarcone.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>teachingNLP</title>
+      <link>http://azarcone.github.io/tag/teachingnlp/</link>
+    </image>
+    
+    <item>
+      <title>Including a contemporary NLP application within an introductory course: an example with student feedback from a University of Applied Sciences</title>
+      <link>http://azarcone.github.io/publication/2023-teach4nlp/</link>
+      <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://azarcone.github.io/publication/2023-teach4nlp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
